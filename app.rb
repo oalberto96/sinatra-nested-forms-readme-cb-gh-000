@@ -6,4 +6,8 @@ class App < Sinatra::Base
     erb :new
   end
 
+  post '/student' do
+    
+  end
+
 end
